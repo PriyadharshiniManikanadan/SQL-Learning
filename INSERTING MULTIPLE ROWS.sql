@@ -1,4 +1,5 @@
 INSERT INTO products (name,quantity_in_stock,unit_price)
+	
 VALUES ('Priya',
 		 100,
          10.65),
